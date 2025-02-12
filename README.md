@@ -1,2 +1,2 @@
-# web-Bage
-web Bage-project-Elzero-frontend-tutorial
+# Guess Word Game
+Guess Word Game project Elzero frontend tutorial
